@@ -1,0 +1,25 @@
+a {
+    Color: goldenrod;
+    text-decoration: none;
+
+}
+ul {
+    margin: 0;
+}
+.body {
+    border: 1px blue solid;
+    margin: 24px;
+    padding: 24px;
+}
+.bdc-blue { border-color: blue;}
+.bds-s { border-style: solid;}
+.bdw-1 { border-width: 1px;}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.nav {
+    display: flex;
+    list-style: none;
+}
